@@ -9,9 +9,7 @@ name: SurfingOnThe.Net
 description: The latest news on what is happening around the net.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/publication-logo.jpeg
-
-root: /octo-5
+avatar: https://jamesjpk123.github.io/surfingonthe.net/images/publication-logo.jpeg
 
 root: /octo-5
 
