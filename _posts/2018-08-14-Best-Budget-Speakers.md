@@ -7,8 +7,6 @@ Everyone knows that a good speaker is *essential* to a good experience with comp
 
 #### Best Computer Speaker
 
-
-
 ![img](https://cdn-images-1.medium.com/max/800/1*xKYLa0omeuRbvAQCZ5EPIg.jpeg)
 
 We nominated the Cyber Acoustics 2.1 Subwoofer Speaker System. The stereo speakers have a sleek gloss black front with an open driver design. Most of the audio controls are on the “control pod”. It can turn the speakers on and off, volume controls and a quick connect 3.5mm jack for headphones.
