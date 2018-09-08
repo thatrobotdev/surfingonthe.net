@@ -1,5 +1,3 @@
-# Top Free Things for Students in Tech
-
 ## Get free, or discounted items for being a student!
 
 You might not know, but there are a ton of free resources for students that many people have available to them. In this article, I am going to round up some of the best deals for students. If I miss anything, please let me know!
