@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! SurfingOnThe.Net is a team of two people that love writing and technology. We write about important tech news in easily digestible articles. Our goal is to get out 1-2 articles per week, with high quality content.
 
-### More Information
+Thank you for dropping by!
 
-A place to include any other types of information that you'd like to include about yourself.
+### Social Links
 
-### Contact me
+* [Twitter](https://twitter.com/sotdotnet)
+* [GitHub](https://github.com/jamesjpk123/surfingonthe.net)
 
-[email@domain.com](mailto:email@domain.com)
+### Contact us
+[hi@surfingonthe.net](mailto:hi@surfingonthe.net)
