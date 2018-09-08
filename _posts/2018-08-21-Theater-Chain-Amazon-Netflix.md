@@ -1,13 +1,14 @@
 ---
-layout: default
+layout: post
 title: "What a theater chain means for Amazon or Netflix"
 ---
+![img](https://cdn-images-1.medium.com/max/2000/0*s-wNzjqf-5TWF3ml)
 
 ## Two big media companies putting in bids for a large theater chain showing adult-oriented showings.
 
 
 
-![img](https://cdn-images-1.medium.com/max/2000/0*s-wNzjqf-5TWF3ml)
+
 
 Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 

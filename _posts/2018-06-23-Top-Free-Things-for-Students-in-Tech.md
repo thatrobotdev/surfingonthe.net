@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: post
 title: "Top Free Things for Students in Tech"
 ---
+
+![img](https://cdn-images-1.medium.com/max/2000/1*8L052mIT1uQieJ5SGzEKbg.jpeg)
 
 ## Get free, or discounted items for being a student!
 
 You might not know, but there are a ton of free resources for students that many people have available to them. In this article, I am going to round up some of the best deals for students. If I miss anything, please let me know!
-
-
-
-![img](https://cdn-images-1.medium.com/max/2000/1*8L052mIT1uQieJ5SGzEKbg.jpeg)
 
 ### [GitHub Student Developer Pack](https://education.github.com/pack):
 

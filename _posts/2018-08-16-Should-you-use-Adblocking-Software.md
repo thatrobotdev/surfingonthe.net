@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: post
 title: "Should you use Ad-Blocking Software?"
 ---
-
-## Pros and cons of using some of the most popular extensions in the chrome webstore.
-
-
 
 ![img](https://cdn-images-1.medium.com/max/1000/1*v2RmGnII_4rr1lLzSw3FWw.png)
 
 Web-capture taken on 8/16/2018 of <https://acceptableads.com/en/>
+
+## Pros and cons of using some of the most popular extensions in the chrome webstore.
 
 Websites rely on ad revenue to survive. They do this by opening ad-spots on their website, and allowing advertisers to pay for a spot. However, with the rise of ad-blockers, many websites are putting their content behind paywalls to help fund their content.
 

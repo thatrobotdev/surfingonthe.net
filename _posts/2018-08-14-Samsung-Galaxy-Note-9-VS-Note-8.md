@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Is the Samsung Galaxy Note 9 really better than the Note 8?"
 ---
 

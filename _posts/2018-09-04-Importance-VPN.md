@@ -1,14 +1,10 @@
 ---
-layout: default
+layout: post
 title: "The Importance of a VPN"
 ---
-
-
+![img](https://cdn-images-1.medium.com/max/2000/0*G0IA5k9mNJr7Lx-l)
 ## Why you should use one to encrypt your web-traffic data.
 
-
-
-![img](https://cdn-images-1.medium.com/max/2000/0*G0IA5k9mNJr7Lx-l)
 
 Photo by [Sweet Ice Cream Photography](https://unsplash.com/@sweeticecreamwedding?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 

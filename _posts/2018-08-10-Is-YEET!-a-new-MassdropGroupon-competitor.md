@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: post
 title: "Is YEET! a new Massdrop/Groupon competitor?"
 ---
+![img](https://cdn-images-1.medium.com/max/2000/1*0aVmH5nfxul2MvcJFuVncA.png)
+
+Page sample, for Ruffles Chips
 
 ## [YEET!](https://medium.com/surfing-on-the-net/is-yeet-com-a-new-home-delivery-competitor-45b994382eba), an up and coming startup, could be the next home delivery competitor.
 
@@ -10,10 +13,6 @@ title: "Is YEET! a new Massdrop/Groupon competitor?"
 According to [YEET!](https://www.yeet.com/), [YEET!](https://medium.com/surfing-on-the-net/is-yeet-com-a-new-home-delivery-competitor-45b994382eba) *“provides a liquidation platform where vendors can quickly sell overstocked products to our customers for a discounted price through our unique social buying experience.”*
 
 
-
-![img](https://cdn-images-1.medium.com/max/2000/1*0aVmH5nfxul2MvcJFuVncA.png)
-
-Page sample, for Ruffles Chips
 
 When you buy a product, you get it at a “pre-authorized” price. This means that this price is the highest that you will pay for that product. When more people come to buy the same product, the price drops. The price you actually pay is not always lower than the “pre-authorized” price, but it can never get higher. When the sale ends, you are charged for the ending price, and shipping starts.
 

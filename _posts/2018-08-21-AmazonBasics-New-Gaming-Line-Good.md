@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Are AmazonBasics new gaming products any good?"
 ---
 

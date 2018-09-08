@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: "Back to School Tech"
 ---
-
 
 ## Top 7 products for making your back to school transition a little easier
 
