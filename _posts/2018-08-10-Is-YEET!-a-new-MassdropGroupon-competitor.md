@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Is YEET! a new Massdrop/Groupon competitor?"
+---
+
 ## [YEET!](https://medium.com/surfing-on-the-net/is-yeet-com-a-new-home-delivery-competitor-45b994382eba), an up and coming startup, could be the next home delivery competitor.
 
 **NOTE: If you join Massdrop using** [**our referral link**](https://www.massdrop.com/?referer=YLGTTS)**, you will get a $10 credit when you sign up. Links to Groupon are also** [**referral links**](https://www.groupon.com/visitor_referral/h/fcd4a25d-3e78-4800-9539-28dab6d85a66)**.**
@@ -71,12 +76,3 @@ This is a whole new market all together, with new deals and ways to save money. 
 ------
 
 Which service should you choose? [YEET!](https://www.yeet.com/) is in its infancy, and many things can change and become apparent in the near future. For now, I would use established companies like [Massdrop](https://www.massdrop.com/?referer=YLGTTS) for technology purchases, and [Groupon](https://www.groupon.com/visitor_referral/h/fcd4a25d-3e78-4800-9539-28dab6d85a66)for local purchases.
-
-------
-
-
-
-![img](https://cdn-images-1.medium.com/max/2000/1*Uz295dDhiO__frnOOG-HIA.jpeg)
-
-
-  

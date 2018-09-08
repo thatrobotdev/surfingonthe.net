@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Top Free Things for Students in Tech"
+---
+
 ## Get free, or discounted items for being a student!
 
 You might not know, but there are a ton of free resources for students that many people have available to them. In this article, I am going to round up some of the best deals for students. If I miss anything, please let me know!
@@ -199,9 +204,3 @@ Get free Microsoft tools, by verifying with a school email or an access code.
 ------
 
 ### [Looking for more great deals? Check out our review of yeet.com, a liquidation platform with good deals!](https://medium.com/surfing-on-the-net/is-yeet-a-new-massdrop-groupon-competitor-45b994382eba)
-
-
-
-![img](https://cdn-images-1.medium.com/max/2000/1*5ur1T9OxWGJ6fk-ejvgnsw.jpeg)
-
-#### I hope you enjoyed this list!
