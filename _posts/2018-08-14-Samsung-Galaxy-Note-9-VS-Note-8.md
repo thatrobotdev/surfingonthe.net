@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Is the Samsung Galaxy Note 9 really better than the Note 8?"
+redirect_from: "/is-the-samsung-galaxy-note-9-really-better-than-the-note-8-c6ec6a1e25f5"
 ---
 
 

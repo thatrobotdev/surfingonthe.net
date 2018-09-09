@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Are AmazonBasics new gaming products any good?"
+redirect_from: "/are-amazonbasics-new-gaming-products-any-good-1d0957fa7265"
 ---
 
 AmazonBasics is Amazon’s generic brand. They sell great items without the name brands. Recently, Amazon released a few new gaming focus products for the people on a budget.

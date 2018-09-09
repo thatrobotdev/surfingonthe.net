@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Should you use Ad-Blocking Software?"
+redirect_from: "/should-you-use-ad-blocking-software-8517711f74ce"
 ---
 
 ![img](https://cdn-images-1.medium.com/max/1000/1*v2RmGnII_4rr1lLzSw3FWw.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top Free Things for Students in Tech"
+redirect_from: "/top-free-things-for-students-in-tech-51e642df6691"
 ---
 
 ![img](https://cdn-images-1.medium.com/max/2000/1*8L052mIT1uQieJ5SGzEKbg.jpeg)

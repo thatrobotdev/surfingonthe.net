@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Is YEET! a new Massdrop/Groupon competitor?"
+redirect_from: "/is-yeet-a-new-massdrop-groupon-competitor-45b994382eba"
 ---
 ![img](https://cdn-images-1.medium.com/max/2000/1*0aVmH5nfxul2MvcJFuVncA.png)
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Back to School Tech"
+redirect_from: "/back-to-school-tech-1c67ee36636f"
 ---
 
 ## Top 7 products for making your back to school transition a little easier

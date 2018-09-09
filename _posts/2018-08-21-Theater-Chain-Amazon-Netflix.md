@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What a theater chain means for Amazon or Netflix"
+redirect_from: "/what-a-theater-chain-means-for-amazon-or-netflix-3b817e08229a"
 ---
 ![img](https://cdn-images-1.medium.com/max/2000/0*s-wNzjqf-5TWF3ml)
 
