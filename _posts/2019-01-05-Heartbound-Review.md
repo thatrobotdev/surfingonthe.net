@@ -1,6 +1,16 @@
-# Heartbound by Pirate Software (Review)
-
-![img](https://www.gopiratesoftware.com/assets/images/heartbound_title.png)
+---
+layout: post
+cover: 'assets/images/heartbound_title.png'
+navigation: True
+title: 'Heartbound by Pirate Software (Review)'
+date: 2019-01-05 00:00:00
+tags: reviews
+subclass: 'post tag-reviews'
+logo: 'assets/images/ghost.png'
+author: jamesjpk123
+categories: jamesjpk123
+disqus: true
+---
 
 **TLDR:** *Heartbound, the second game from the independent games studio Pirate Software is a charming roleplaying game, that delves into issues like mental health and negative thoughts. The pixel art style and bouncy soundtrack make each situation you come across interesting, and pulls you in. If you are willing to wait for the rest of the chapters to release, this game is an excellent addition to your collection.*
 
