@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-23T20:31:39+00:00</updated><id>/</id><title type="html">SurfingOnThe.Net</title><subtitle>SurfingOnThe.Net is a website dedicated to posting all of the latest news and reviews about tech. Check back for more in the future!</subtitle><entry><title type="html">Heartbound by Pirate Software (Review)</title><link href="/Heartbound-Review" rel="alternate" type="text/html" title="Heartbound by Pirate Software (Review)" /><published>2019-01-05T00:00:00+00:00</published><updated>2019-01-05T00:00:00+00:00</updated><id>/Heartbound-Review</id><content type="html" xml:base="/Heartbound-Review">&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; &lt;em&gt;Heartbound, the second game from the independent games studio Pirate Software is a charming roleplaying game, that delves into issues like mental health and negative thoughts. The pixel art style and bouncy soundtrack make each situation you come across interesting, and pulls you in. If you are willing to wait for the rest of the chapters to release, this game is an excellent addition to your collection.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/reviews/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2019-02-23T20:31:39+00:00</updated>
+  <id>/tag/reviews/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">SurfingOnThe.Net | </title>
+  
+
+  
+    <subtitle>SurfingOnThe.Net is a website dedicated to posting all of the latest news and reviews about tech. Check back for more in the future!</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Heartbound by Pirate Software (Review)</title>
+      <link href="/Heartbound-Review" rel="alternate" type="text/html" title="Heartbound by Pirate Software (Review)" />
+      <published>2019-01-05T00:00:00+00:00</published>
+      <updated>2019-01-05T00:00:00+00:00</updated>
+      <id>/Heartbound-Review</id>
+      <content type="html" xml:base="/Heartbound-Review">&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; &lt;em&gt;Heartbound, the second game from the independent games studio Pirate Software is a charming roleplaying game, that delves into issues like mental health and negative thoughts. The pixel art style and bouncy soundtrack make each situation you come across interesting, and pulls you in. If you are willing to wait for the rest of the chapters to release, this game is an excellent addition to your collection.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Heartbound is an RPG-inspired roleplaying game where you take control of Lore, a young man who is troubled by his own thoughts. His sidekick and companion Baron is a loveable dog that helps Lore with his inner-demons. When he wakes up one day, he discovers that Baron is gone, and that it is up to him to save him from otherworldly monsters. As he makes friends and enemies, along the way Lore discovers more about himself.&lt;/p&gt;
 
@@ -37,4 +88,32 @@
 
 &lt;p&gt;The included content took me around 5 hours to complete, leaving me hungry for more. I am very excited for the future of Heartbound, and I am looking forward to upcoming content releases.  I wholeheartedly recommend this game, as long as you are willing to wait for more content releases.&lt;/p&gt;
 
-&lt;p&gt;If you would like more information about the game, &lt;a href=&quot;https://www.twitch.tv/gopiratesoftware&quot;&gt;Jason Thor Hall (Game Director), and Bradie Shaye Rehmel (Lead Artist) both stream their development from 12pm - 10pm PST on their Twitch channel.&lt;/a&gt; You can also check out their twitter handle &lt;a href=&quot;https://twitter.com/PirateSoftware&quot;&gt;@PirateSoftware&lt;/a&gt;, and their website at &lt;a href=&quot;https://www.gopiratesoftware.com/&quot;&gt;gopiratesoftware.com&lt;/a&gt;.&lt;/p&gt;</content><author><name>jamesjpk123</name></author><category term="reviews" /><summary type="html">TLDR: Heartbound, the second game from the independent games studio Pirate Software is a charming roleplaying game, that delves into issues like mental health and negative thoughts. The pixel art style and bouncy soundtrack make each situation you come across interesting, and pulls you in. If you are willing to wait for the rest of the chapters to release, this game is an excellent addition to your collection.</summary></entry></feed>
+&lt;p&gt;If you would like more information about the game, &lt;a href=&quot;https://www.twitch.tv/gopiratesoftware&quot;&gt;Jason Thor Hall (Game Director), and Bradie Shaye Rehmel (Lead Artist) both stream their development from 12pm - 10pm PST on their Twitch channel.&lt;/a&gt; You can also check out their twitter handle &lt;a href=&quot;https://twitter.com/PirateSoftware&quot;&gt;@PirateSoftware&lt;/a&gt;, and their website at &lt;a href=&quot;https://www.gopiratesoftware.com/&quot;&gt;gopiratesoftware.com&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>jamesjpk123</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="reviews" />
+      
+
+      
+        <summary type="html">TLDR: Heartbound, the second game from the independent games studio Pirate Software is a charming roleplaying game, that delves into issues like mental health and negative thoughts. The pixel art style and bouncy soundtrack make each situation you come across interesting, and pulls you in. If you are willing to wait for the rest of the chapters to release, this game is an excellent addition to your collection.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
