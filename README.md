@@ -1,6 +1,6 @@
 ## Jasper
 
-[![Build Status](https://travis-ci.org/jekyller/jasper.svg?branch=master)](https://travis-ci.org/jekyller/jasper)
+[![Build Status](https://travis-ci.org/jamesjpk123/surfingonthe.net.svg?branch=master)](https://travis-ci.org/jamesjpk123/surfingonthe.net)
 [![Ruby](https://img.shields.io/badge/ruby-2.5.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper)
 
