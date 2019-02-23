@@ -46,7 +46,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: jamesjpk123
-repo: surfingonthe.net
+repo: surfingonthe.net/
 branch: master
 relative_source: ../surfingonthe.net/
 destination: ../surfingonthenet-pages/
