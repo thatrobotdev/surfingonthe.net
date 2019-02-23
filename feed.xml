@@ -1,28 +1,25 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title> - Articles</title>
+    <description>SurfingOnThe.Net is a website dedicated to posting all of the latest news and reviews about tech. Check back for more in the future!</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    </link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>Heartbound by Pirate Software (Review)</title>
+        
+          <description>&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; &lt;em&gt;Heartbound, the second game from the independent games studio Pirate Software is a charming roleplaying game, that delves into issues like mental health and negative thoughts. The pixel art style and bouncy soundtrack make each situation you come across interesting, and pulls you in. If you are willing to wait for the rest of the chapters to release, this game is an excellent addition to your collection.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        /Heartbound-Review</link>
+        <guid isPermaLink="true">/Heartbound-Review</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
   </channel>
 </rss>
