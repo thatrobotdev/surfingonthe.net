@@ -16,7 +16,7 @@ favicon: assets/images/favicon.png
 production_url: https://surfingonthe.net/
 source_url: https://github.com/jamesjpk123/surfingonthe.net/
 CNAME: surfingonthe.net
-site_color: /*\*/#5B4A70
+site_color: /*\*/#5a885d
 
 # Social info
 navigation: True # show the navbar links
