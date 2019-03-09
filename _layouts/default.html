@@ -29,7 +29,7 @@
             }
         </style>
     <![endif]-->
-    
+
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
 
@@ -56,7 +56,7 @@
         {% endif %}
 
         <!-- The footer at the very bottom of the screen -->
-        <footer class="site-footer outer">
+        <footer class="site-footer outer" style="background-color: {{ site.site_color }};">
             <div class="site-footer-content inner">
                 <section class="copyright"><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a> &copy; {{  site.time | date: '%Y' }}</section>
                 <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
