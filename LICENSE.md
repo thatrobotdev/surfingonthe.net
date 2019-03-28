@@ -1,4 +1,5 @@
 ## Copyright & Licenses
+Most of this work is licensed under the MIT license, but all writing and assets are Copyright (C) of their respective authors. Folders that are not copyrighted under the MIT license will be marked with a README.md file that will say which license it is listed under. If you have any questions, feel free to email James Kerrane at [iam@thatrobot.dev](mailto:iam@thatrobot.dev?Subject=License%20Question%20for%20SurfingOnThe.Net)
 
 #### Writing
 
