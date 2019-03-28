@@ -246,6 +246,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 192)
   jekyll (~> 3.7.4)
+  jekyll-sitemap
   rake (~> 12.3.1)
   wdm (>= 0.1.0)
 
