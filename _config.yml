@@ -43,6 +43,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
+url: "https://surfingonthe.net" # the base hostname & protocol for site (used by jekyll-sitemap)
 plugins:
   - jekyll-paginate
   - jekyll-feed
