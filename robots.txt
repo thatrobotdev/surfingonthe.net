@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://surfingonthe.net/sitemap.xml
