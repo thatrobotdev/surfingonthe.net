@@ -58,26 +58,35 @@ jekyll_compose:
     navigation: True
     class: post-template
     subclass: 'post tag-reviews'
-    # TODO: Reformat these comments into documentation, because generated drafts do not include comments.
+    # TODO: Reformat these comments into documentation, because generated writings do not include comments.
     cover: # Article Image File (ex: assets/images/heartbound_title.png)
     title: # Article Title
     excerpt: # 1 Paragraph of the article that will show up as a preview
-    date: # Optional, overrides the date in the name of the post. (YYYY-MM-DD HH:MM:SS +/-TTTT) [hours, minutes, seconds, and timezone offset are optional]
     tags: # Tag for the post. (Look at _data/tags.yml for a full list of tags)
     author: # Author of the writing. (Look at _data/authors.yml for a full list of Authors)
+    date: # OPTIONAL (default: date in the name of the post), YYYY-MM-DD HH:MM:SS +/-TTTT [hours, minutes, seconds, and timezone offset are optional]
+    sitemap: # OPTIONAL For general information, https://www.sitemaps.org/protocol.html. Thanks to David Ensinger for the original sitemap code. (http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/).
+      lastmod: # OPTIONAL (default: post.date): Date of when the file was last modified (YYYY-MM-DD)
+      priority: # OPTIONAL (default: 0.5): Priority of web crawling, default 0.5. This is relative to other links. For time-sensitive articles, use 0.8. For regular articles, do not use. For pages on the website, use 0.6.
+      changefreq: 'monthly' # OPTIONAL (default: 'monthly'): How often will this page change? (Values: always, hourly, daily, weekly, monthly, yearly, never).
+      exclude: 'yes' # Remove when draft is finalized into a post.
   post_default_front_matter:
-    layout: post
-    current: post
-    navigation: True
-    class: post-template
-    subclass: 'post tag-reviews'
-    # TODO: Reformat these comments into documentation, because generated posts do not include comments.
-    cover: # Article Image File (ex: assets/images/heartbound_title.png)
-    title: # Article Title
-    excerpt: # 1 Paragraph of the article that will show up as a preview
-    date: # Optional, overrides the date in the name of the post. (YYYY-MM-DD HH:MM:SS +/-TTTT) [hours, minutes, seconds, and timezone offset are optional]
-    tags: # Tag for the post. (Look at _data/tags.yml for a full list of tags)
-    author: # Author of the writing. (Look at _data/authors.yml for a full list of Authors)
+        layout: post
+        current: post
+        navigation: True
+        class: post-template
+        subclass: 'post tag-reviews'
+        # TODO: Reformat these comments into documentation, because generated writings do not include comments.
+        cover: # Article Image File (ex: assets/images/heartbound_title.png)
+        title: # Article Title
+        excerpt: # 1 Paragraph of the article that will show up as a preview
+        tags: # Tag for the post. (Look at _data/tags.yml for a full list of tags)
+        author: # Author of the writing. (Look at _data/authors.yml for a full list of Authors)
+        date: # OPTIONAL (default: date in the name of the post), YYYY-MM-DD HH:MM:SS +/-TTTT [hours, minutes, seconds, and timezone offset are optional]
+        sitemap: # OPTIONAL For general information, https://www.sitemaps.org/protocol.html. Thanks to David Ensinger for the original sitemap code. (http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/).
+          lastmod: # OPTIONAL (default: post.date): Date of when the file was last modified (YYYY-MM-DD)
+          priority: # OPTIONAL (default: 0.5): Priority of web crawling, default 0.5. This is relative to other links. For time-sensitive articles, use 0.8. For regular articles, do not use. For pages on the website, use 0.6.
+          changefreq: 'monthly' # OPTIONAL (default: 'monthly'): How often will this page change? (Values: always, hourly, daily, weekly, monthly, yearly, never).
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
