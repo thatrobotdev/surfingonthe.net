@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/heartbound_title.png
 navigation: True
 title: Heartbound by Pirate Software (Review)
+excerpt: Heartbound is an RPG-inspired roleplaying game where you take control of Lore, a young man who is troubled by his own thoughts. His sidekick and companion Baron is a loveable dog that helps Lore with his inner-demons. When he wakes up one day, he discovers that Baron is gone, and that it is up to him to save him from otherworldly monsters. As he makes friends and enemies, along the way Lore discovers more about himself.
 date: 2019-01-05 00:00:00
 tags: reviews
 class: post-template
