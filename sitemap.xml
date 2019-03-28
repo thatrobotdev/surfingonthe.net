@@ -1,19 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>/Heartbound-Review</loc>
-<lastmod>2019-01-05T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>/</loc>
-</url>
-<url>
-<loc>/about/</loc>
-</url>
-<url>
-<loc>/tag/reviews/</loc>
-</url>
-<url>
-<loc>/author/jamesjpk123/</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>/Heartbound-Review</loc>
+      
+        <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+  
+    
+    <url>
+      <loc>/404.html</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/atom.xml</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/about/</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>/tag/reviews/feed.xml</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/tag/reviews/</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/author/jamesjpk123/feed.xml</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/author/jamesjpk123/</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/the-importance-of-a-vpn-6579e0508780</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/are-amazonbasics-new-gaming-products-any-good-1d0957fa7265</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/what-a-theater-chain-means-for-amazon-or-netflix-3b817e08229a</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/is-yeet-a-new-massdrop-groupon-competitor-45b994382eba</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/back-to-school-tech-1c67ee36636f</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/should-you-use-ad-blocking-software-8517711f74ce</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/top-free-things-for-students-in-tech-51e642df6691</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/is-yeet-a-new-massdrop-groupon-competitor-45b994382eba</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/redirects.json</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/feed.xml</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/robots.txt</loc>
+      
+        <lastmod>2019-03-28T07:14:58+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
 </urlset>
