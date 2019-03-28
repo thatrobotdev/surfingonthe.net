@@ -50,6 +50,34 @@ plugins:
 feed:
   path: feed.xml
 
+jekyll_compose:
+  draft_default_front_matter:
+    layout: post
+    current: post
+    navigation: True
+    class: post-template
+    subclass: 'post tag-reviews'
+    # TODO: Reformat these comments into documentation, because generated drafts do not include comments.
+    cover: # Article Image File (ex: assets/images/heartbound_title.png)
+    title: # Article Title
+    excerpt: # 1 Paragraph of the article that will show up as a preview
+    date: # Optional, overrides the date in the name of the post. (YYYY-MM-DD HH:MM:SS +/-TTTT) [hours, minutes, seconds, and timezone offset are optional]
+    tags: # Tag for the post. (Look at _data/tags.yml for a full list of tags)
+    author: # Author of the writing. (Look at _data/authors.yml for a full list of Authors)
+  post_default_front_matter:
+    layout: post
+    current: post
+    navigation: True
+    class: post-template
+    subclass: 'post tag-reviews'
+    # TODO: Reformat these comments into documentation, because generated posts do not include comments.
+    cover: # Article Image File (ex: assets/images/heartbound_title.png)
+    title: # Article Title
+    excerpt: # 1 Paragraph of the article that will show up as a preview
+    date: # Optional, overrides the date in the name of the post. (YYYY-MM-DD HH:MM:SS +/-TTTT) [hours, minutes, seconds, and timezone offset are optional]
+    tags: # Tag for the post. (Look at _data/tags.yml for a full list of tags)
+    author: # Author of the writing. (Look at _data/authors.yml for a full list of Authors)
+
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
 # Author's page cover in _layouts/author.html
