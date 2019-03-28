@@ -47,6 +47,7 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 feed:
   path: feed.xml
 
